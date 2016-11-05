@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/trailer_width"
+    android:layout_height="@dimen/trailer_height"
+    android:layout_margin="@dimen/subheading_margin_top">
+
+    <ImageView
+        android:id="@+id/imageview_gallery_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:id="@+id/textView_trailer_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/poster_name_height"
+        android:text="Teaser"
+        android:textColor="@android:color/white"
+        android:layout_gravity="bottom"
+        android:padding="@dimen/name_padding_left"
+        android:textSize="@dimen/textsize_name"
+        android:textStyle="bold"
+        android:background="@drawable/background_gradient"
+        />
+
+    <ImageView
+        android:layout_width="@dimen/play_button_size"
+        android:layout_height="@dimen/play_button_size"
+        android:src="@android:drawable/ic_media_play"
+        android:layout_gravity="center"
+        />
+
+</FrameLayout>

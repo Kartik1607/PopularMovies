@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="settings">Settings</string>
+    <string name="about">More Info</string>
+    <string name="reviews">User Reviews</string>
+    <string name="read_more">Find More</string>
+    <string name="votes">%1$s votes</string>
+    <string name="runtime">%1$s min</string>
+    <string name="cast">Cast Members</string>
+    <string name="no_reviews">No reviews available!</string>
+    <string name="filter">Filter</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="content_authority">stfo.com.popularmovies</string>
+    <string name="other_movies">Movie Credits</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="share">Share</string>
+    <string name="gallery">Trailers and Images</string>
+    <string name="movies">Movies</string>
+    <string name="people">People</string>
+    <string name="hint_search">Search</string>
+    <string name="select">Select Movie</string>
+    <string name="loading">Loading...</string>
+
+    <string name="lorem_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod elit quis augue elementum, placerat efficitur felis tincidunt. Nunc a consectetur metus. Ut dolor ante, imperdiet eu sapien vitae, tristique pellentesque orci. Curabitur aliquet euismod quam. Phasellus porttitor eros sapien, vel auctor metus efficitur varius. Quisque aliquam nisl dictum nulla pharetra semper. Nunc dictum purus nec mattis mollis. Sed dui lectus, iaculis quis vulputate a, convallis vel libero. Etiam et libero et turpis semper volutpat vitae a neque. Praesent ornare luctus lacus non pellentesque.
+
+Vivamus et velit ligula. Morbi condimentum id lacus et eleifend. Proin fringilla fermentum arcu, quis gravida urna cursus vel. Suspendisse quis imperdiet odio. Ut eros sem, tincidunt non velit eget, commodo iaculis ligula. Duis congue luctus laoreet. Suspendisse potenti.
+
+Proin ornare dui sed nisi semper, et sagittis velit mollis. Phasellus quis est nibh. Ut consectetur, ipsum interdum accumsan eleifend, felis tellus semper purus, at sollicitudin odio mi eu nisi. Quisque tincidunt, orci nec mattis elementum, orci augue auctor nulla, gravida efficitur est metus quis justo. Mauris non sagittis nunc. Suspendisse quis turpis quis nulla facilisis convallis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi tristique scelerisque consequat. Nam hendrerit velit vel varius laoreet. Nam justo sapien, aliquet vitae mollis nec, aliquam sed turpis. Nulla aliquam, felis quis egestas hendrerit, elit quam fermentum massa, et malesuada leo eros id neque. Nullam dapibus velit ultricies pretium luctus.
+
+Etiam rutrum quis neque sodales scelerisque. Nulla tincidunt malesuada libero. Suspendisse hendrerit lacus at metus interdum, eu venenatis nibh hendrerit. Quisque varius sem vel est commodo, ut porttitor lectus dignissim. Mauris tempus felis ullamcorper justo semper, eu placerat tortor rutrum. Aenean luctus molestie sapien, at varius metus porta ac. Duis semper tristique magna, non dapibus orci tristique at. Donec cursus est ut est elementum blandit. Sed et eros ut justo volutpat pellentesque. Duis quis iaculis ante. Aliquam bibendum congue urna id finibus. Aenean nec nulla at mi elementum dapibus vel ac metus. Ut nec hendrerit nisl, pharetra efficitur ante. Phasellus efficitur feugiat fringilla. Cras non metus ut lorem dapibus hendrerit. Donec placerat porta pulvinar.
+
+In hac habitasse platea dictumst. Curabitur mi quam, sodales eget consectetur ut, cursus quis justo. Nunc porttitor ante ligula, non convallis sem tristique eget. Mauris id dictum erat. Vivamus aliquet vel enim ut ullamcorper. Nullam vulputate et lorem nec vestibulum. Nam finibus dolor sit amet lorem porta sodales. Donec vitae aliquam odio. Proin eleifend lorem vel felis pretium dapibus. Phasellus tincidunt aliquam neque eu congue. Mauris viverra ligula vel gravida aliquam. Praesent ut velit ac mauris vulputate mollis. Aenean eleifend, leo non scelerisque bibendum, mi sem pharetra risus, sit amet malesuada ante dolor eget ligula. Vestibulum vitae maximus diam. Sed accumsan, lorem nec laoreet pharetra, leo lectus efficitur felis, vel mollis dui nibh ac lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</string>
+</resources>

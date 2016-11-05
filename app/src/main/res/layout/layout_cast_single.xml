@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="@dimen/poster_cast_height"
+    android:layout_width="@dimen/poster_width"
+    android:layout_marginRight="@dimen/activity_horizontal_margin"
+    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+    android:layout_marginBottom="@dimen/activity_vertical_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/poster_cast_image_height"
+            android:id="@+id/imageView_cast_poster"/>
+
+        <TextView
+            android:id="@+id/textView_cast_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/poster_name_textSize"
+            android:paddingLeft="@dimen/poster_name_padding"
+            android:paddingStart="@dimen/poster_name_padding"
+            android:paddingRight="@dimen/poster_name_padding"
+            android:paddingEnd="@dimen/poster_name_padding"
+            android:paddingTop="@dimen/cast_character_padding"
+            android:gravity="center"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textView_cast_character"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/poster_name_textSize"
+            android:paddingBottom="@dimen/cast_character_padding"
+            android:paddingLeft="@dimen/cast_character_padding"
+            android:paddingRight="@dimen/cast_character_padding"
+            android:paddingStart="@dimen/cast_character_padding"
+            android:paddingEnd="@dimen/cast_character_padding"
+            android:gravity="center"
+            android:maxLines="2"
+            />
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.CardView>
+
+
