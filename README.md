@@ -8,6 +8,7 @@ PopularMovies is an android application made under Udacity nanodegree.
 
 ## Features
 
+## Keep all favourite movies offline.
 
 ## View the current popular movies.
 <p align="center">
